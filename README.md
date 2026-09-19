@@ -66,7 +66,7 @@ npm run build
 
 ## Aplicação publicada
 
-`<colar aqui o link do Vercel/Netlify após o deploy>`
+`https://previsao-de-tempo-zeta.vercel.app/`
 
 ## 🤖 Uso de Inteligência Artificial
 
